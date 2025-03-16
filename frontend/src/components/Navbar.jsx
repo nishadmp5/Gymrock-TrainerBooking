@@ -117,7 +117,7 @@ const Navbar = () => {
                 <h1 className="text-gray-200">fitness studio</h1>
               </div>
             </div>
-            <RiCloseLargeFill className="text-3xl"/>
+            <RiCloseLargeFill onClick={() => setShowMenu(false)} className="text-3xl"/>
           </div>
           <ul className="flex flex-col items-center gap-2 mt-5 px5 text-lg font-medium">
             <NavLink onClick={() => setShowMenu(false)} to="/">
