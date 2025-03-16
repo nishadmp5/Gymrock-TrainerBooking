@@ -138,7 +138,7 @@ const AddTrainer = () => {
                 <option value="General Fitness">General Fitness</option>
                 <option value="Weight Loss">Weight Loss</option>
                 <option value="Strength and Conditioning">Strength and Conditioning</option>
-                <option value=" Bodybuilding"> Bodybuilding</option>
+                <option value="Bodybuilding"> Bodybuilding</option>
                 <option value="Sports Specific">Sports Specific</option>
                 <option value="Yoga and Pilates">Yoga and Pilates</option>
               </select>
